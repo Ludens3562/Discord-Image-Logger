@@ -7,7 +7,7 @@ const Data = {
 		 * Both IDs must be in quotes, otherwise an error will be thrown.
 		 * @example "8934298076025698": "84572569875460987"
 		 */
-		"a_guild_id": "a_channel_id",
+		"685353798620676136": "1168735547511033936",
 	},
 };
 
